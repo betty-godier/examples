@@ -1,5 +1,5 @@
 # SwiftUI essentials
-.
+Weekly Study Group, March 22, 2022
 ## App presentation
 Link App Scrumdinger
 ## Basic of Swift
@@ -27,3 +27,6 @@ A view that overlays its children, aligning them in both axes.
 
 https://developer.apple.com/documentation/swiftui/zstack 
 
+## Let's start together 🤞
+https://developer.apple.com/tutorials/app-dev-training/using-stacks-to-arrange-views 
+🔗 [Link to code]() at the end of the session 
