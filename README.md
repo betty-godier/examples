@@ -18,5 +18,6 @@ SwiftUI series as Leader Volunteer for [Women Who Code Mobile](https://github.co
 |---|---|
 |  001 | [SwiftUI Essentials](https://github.com/betty-godier/examples/blob/master/demos/study-group/001-swiftui-essentials.md)  | 
 |  002 | [SwiftUI Views](https://github.com/betty-godier/examples/blob/master/demos/study-group/002-swiftui-views.md)  | 
-| 003 | [SwiftUI Navigation](https://github.com/betty-godier/examples/blob/master/demos/study-group/003-swiftui-navigation.md)
-| ...| next week! |
+| 003 | [SwiftUI Navigation](https://github.com/betty-godier/examples/blob/master/demos/study-group/003-swiftui-navigation.md)|
+|004 | [SwiftUI Navigation + Data Flow](https://github.com/betty-godier/examples/blob/master/demos/study-group/004-swiftui-navigation-data-flow.md)|
+| ...| in two weeks! |
