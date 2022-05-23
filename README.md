@@ -1,4 +1,5 @@
 # Swift Programming Demos
+Set of the example apps used for demos and presentations during iOS Office hours with Women Who Code Mobile - includes SwiftUI  Resources
 
 ## Spirit
 - Do it together
